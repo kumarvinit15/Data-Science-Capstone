@@ -7,7 +7,7 @@ Real or Not? NLP with Disaster Tweets (Kaggle Challenge)
 ### 3. File Descriptions
 ### 4. Dataset
 ### 5. Summary Blogpost
-### 6. Licensing,Authors and Acknowledgement
+### 6. Licensing, authors and acknowledgement
 
 ### 1. Description:
 Twitter has become an important communication channel in times of emergency.
@@ -46,7 +46,7 @@ https://www.kaggle.com/c/nlp-getting-started/data
 Summary of data analysis and results can be found at below link on the medium portal:
 # TBD
 
-### 6. Licensing,Authors and Acknowledgement:
+### 6. Licensing,authors and acknowledgement:
 
 This dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’ website here.
 Kaggle hosted a challenge to develop machine learning models for provided dataset.
