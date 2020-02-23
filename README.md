@@ -15,8 +15,6 @@ The ubiquitousness of smartphones enables people to announce an emergency they�
 
 Main goal of this project is to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t. 
 
-*Disclaimer: The dataset for this competition contains text that may be considered profane, vulgar, or offensive.*
-
 ### 2. Installation:
 
 Anaconda Python distribution was used to create the jupyter notebook for this project.There were no additional liabraries installed in support of this project.
@@ -51,3 +49,5 @@ https://medium.com/real-or-not-nlp-with-disaster-tweets/real-or-not-nlp-with-dis
 
 This dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’ website.
 Kaggle hosted a challenge to develop machine learning models to classify tweets into real disaster or not.
+
+*Disclaimer: The dataset for this competition contains text that may be considered profane, vulgar, or offensive.*
