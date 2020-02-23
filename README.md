@@ -1,4 +1,4 @@
-# Data-Science-Capstone
+# Data Science-Capstone Project
 Real or Not? NLP with Disaster Tweets (Kaggle Challenge)
 
 ## Table of Contents:
@@ -44,9 +44,10 @@ https://www.kaggle.com/c/nlp-getting-started/data
 ### 5. Summary Blogpost:
 
 Summary of data analysis and results can be found at below link on the medium portal:
-# TBD
+
+https://medium.com/real-or-not-nlp-with-disaster-tweets/real-or-not-nlp-with-disaster-tweets-a-data-science-capstone-project-fafa6c35c16f
 
 ### 6. Licensing,authors and acknowledgement:
 
-This dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’ website here.
-Kaggle hosted a challenge to develop machine learning models for provided dataset.
+This dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’ website.
+Kaggle hosted a challenge to develop machine learning models to classify tweets into real disaster or not.
